@@ -2,7 +2,7 @@
   "title": "Métronome",
   "description": "Simultaneous moves on a real clock. Both players secretly program three ticks, then the measure plays out at once: bounces, duels at the centre, eliminations. Read your opponent, not the board. Play hotseat, against an honest AI, or online with a friend in a LOB7 room.",
   "entrypoint": "index.html",
-  "license": "CC BY-SA 4.0",
+  "license": "MIT",
   "controls": [
     "For each of the three ticks, give each of your pieces one of six directions or stay.",
     "Two enemy pieces aimed at the same cell eliminate each other; blocked moves bounce.",
